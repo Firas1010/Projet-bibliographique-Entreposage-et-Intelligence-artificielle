@@ -1,0 +1,2 @@
+# Projet-bibliographique-Entreposage-et-Intelligence-artificielle
+Les objets connectés produisent une quantité énorme de data ce qu’on appelle les Big Datas. En logistique, cela peut s’agir de capteurs qui servent à la traçabilité des biens afin de gérer les stocks. « Ces appareils peuvent également contrôler température, la luminosité, les compteurs intelligents et systèmes de sécurité connectés. »
